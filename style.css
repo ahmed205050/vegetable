@@ -270,7 +270,7 @@ margin: 0px;
  
 display: grid;
 grid-template-columns:repeat(2,1fr);
-width: 80%;
+width: 100%;
 height: auto;
 
 }
